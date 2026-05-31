@@ -1,7 +1,7 @@
 import sqlite3
 
 # The database file that will be created on disk
-DB_PATH = "TEST_2_31.05.26.db"
+DB_PATH = "world_cups.db"
 
 # Opens a connection and makes rows behave like dictionaries
 def connect():
